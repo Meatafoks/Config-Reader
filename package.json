@@ -9,6 +9,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Meatafoks/Config-Reader"
+  },
   "author": "Yakov Foks <notafoks@yandex.ru>",
   "license": "MIT",
   "dependencies": {
